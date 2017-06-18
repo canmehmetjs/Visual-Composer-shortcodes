@@ -2,8 +2,8 @@
 /**
  * Custom Parameter Type
  * @author TOMPLABS.COM 
- * @package IPKO
- * @since IPKO 1.0
+ * @package TOMP
+ * @since TOMP
  *
  * 
  */
